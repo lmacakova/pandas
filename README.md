@@ -1,7 +1,6 @@
-# pfda.assessment
-## Author: Lucia Macakova
+![plots](https://images.pexels.com/photos/7947635/pexels-photo-7947635.jpeg)
 ## Programming for Data Analytics - Assignment tasks
-
+## Author: Lucia Macakova
 ### About: 
 This is my solution for assignment tasks in the module Programming for Data Analytics. I am the only contributor.
 
@@ -40,7 +39,7 @@ Solution: I checked missing cells, replaced ' ' with NaN, and refilled cells wit
 
 
 ### Contact:
-Lucia Macakova
+Lucia Macakova\
 email: G00439449@atu.ie
 
 
@@ -57,6 +56,7 @@ email: G00439449@atu.ie
 [^9]:    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html
 [^10]:   https://www.geeksforgeeks.org/python-pandas-dataframe-resample/
 [^11]:   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rolling.html
+
 
 
 
