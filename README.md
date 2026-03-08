@@ -30,12 +30,6 @@ Creating plots of:
 
 ---
 
-## Contact:
-Lucia Macakova\
-email: G00439449@atu.ie
-
----
-
 ## Resources:
 [^1]:    https://pandas.pydata.org/docs/index.html
 [^2]:    https://numpy.org/doc/stable/index.html 
